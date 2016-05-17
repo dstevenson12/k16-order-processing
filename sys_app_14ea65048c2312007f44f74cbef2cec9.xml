@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <enforce_license>log</enforce_license>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <logo/>
+        <menu/>
+        <name>Order Return Processing</name>
+        <private>false</private>
+        <restrict_table_access>true</restrict_table_access>
+        <runtime_access_tracking>enforcing</runtime_access_tracking>
+        <scope>x_order_return_pro</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_order_return_pro</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-05-17 21:07:07</sys_created_on>
+        <sys_id>14ea65048c2312007f44f74cbef2cec9</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-05-17 21:25:08</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+</record_update>
